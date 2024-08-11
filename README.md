@@ -1,14 +1,14 @@
 <h1 align="center">Welcome to NamVr Discord Bot Template 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-v3.3-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/NamVr/DiscordBot-Template#readme" target="_blank">
+  <a href="https://github.com/XAmple-Development/Discord_Bot_Boilerplate_Node.JS#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://github.com/NamVr/DiscordBot-Template/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://twitter.com/namanvrati" target="_blank">
-    <img alt="Twitter: namanvrati" src="https://img.shields.io/twitter/follow/namanvrati.svg?style=social" />
+  <a href="https://twitter.com/dannyxample" target="_blank">
+    <img alt="Twitter: DannyXample" src="https://img.shields.io/twitter/follow/namanvrati.svg?style=social" />
   </a>
 </p>
 
