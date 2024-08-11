@@ -14,7 +14,7 @@
 
 > An **open source** `discord.js` bot template which is based on official [discord.js guide](https://discordjs.guide/) to get started on making your very personal discord bot!
 
-### 🏠 [Homepage](https://github.com/NamVr/DiscordBot-Template#readme)
+### 🏠 [Homepage](https://x-ampledevelopment.com)
 
 ## Introduction
 
