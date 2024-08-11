@@ -1,9 +1,10 @@
 /**
  * @file Sample Trigger command.
- * @author Naman Vrati
+ * @author X-Ample Development
  * @since 2.0.0
  * @version 3.2.2
  */
+
 
 // For now, the only available property is name array. Not making the name array will result in an error.
 
