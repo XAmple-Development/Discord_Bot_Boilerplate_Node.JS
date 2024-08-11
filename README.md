@@ -30,19 +30,19 @@ This template comes in with many in-built useful and flexible features, such as
 #### • **Dynamic Command Handler:**
 
 - My template comes in with a dynamic command handler! Using the command handler, you don't need to indulge in main bot files to create your very own command!
-- You can simply make command groups (categorized as folders) in the [commands](https://github.com/NamVr/DiscordBot-Template/tree/master/commands/) folder.
-- Your JavaScript commands goes inside respective category folders. A sample command is provided as [ping](https://github.com/NamVr/DiscordBot-Template/blob/master/commands/misc/ping.js) command. You can use the same skeleton for all commands you want!
+- You can simply make command groups (categorized as folders) in the [commands](https://github.com/XAmple-Development/Discord_Bot_Boilerplate_Node.JS/tree/main/commands) folder.
+- Your JavaScript commands goes inside respective category folders. A sample command is provided as [ping](https://github.com/XAmple-Development/Discord_Bot_Boilerplate_Node.JS/tree/main/commands/misc/ping.js) command. You can use the same skeleton for all commands you want!
 
 #### • **Dynamic Event Handler:**
 
-- All events goes inside the [events](https://github.com/NamVr/DiscordBot-Template/blob/master/events/) folder. You don't need to use `client.on()` in the main `bot.js` file to handle events.
+- All events goes inside the [events](https://github.com/XAmple-Development/Discord_Bot_Boilerplate_Node.JS/blob/master/events/) folder. You don't need to use `client.on()` in the main `bot.js` file to handle events.
 - Using simple skeleton code for events, you can make any amount of events in the events folder using the event handler.
 
 #### • **Dynamic Trigger Handler:**
 
 - Triggers occur when a specific "phrase" is said in a message content. For example, if you want your bot to react with :heart: when someone say `welcome` in their message, you can do that with this trigger handler!
-- Trigger Handler also has the same skeleton structure as of command handler. The trigger handler is associated with the [triggers](https://github.com/NamVr/DiscordBot-Template/tree/master/triggers/) folder. There are trigger categories, like [reactions](https://github.com/NamVr/DiscordBot-Template/tree/master/triggers/reactions) folder, in the trigger folder.
-- A sample trigger command is given in the [`hello.js`](https://github.com/NamVr/DiscordBot-Template/tree/master/triggers/reactions/hello.js) trigger file.
+- Trigger Handler also has the same skeleton structure as of command handler. The trigger handler is associated with the [triggers](https://github.com/XAmple-Development/Discord_Bot_Boilerplate_Node.JS/tree/master/triggers/) folder. There are trigger categories, like [reactions](https://github.com/XAmple-Development/Discord_Bot_Boilerplate_Node.JS/tree/master/triggers/reactions) folder, in the trigger folder.
+- A sample trigger command is given in the [`hello.js`](https://github.com/XAmple-Development/Discord_Bot_Boilerplate_Node.JS/tree/master/triggers/reactions/hello.js) trigger file.
 
 #### • **Dynamic Slash Command Handler:**
 
