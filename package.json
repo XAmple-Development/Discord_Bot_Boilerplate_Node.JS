@@ -1,0 +1,28 @@
+{
+	"name": "discordbot-template",
+	"version": "3.3.2",
+	"description": "A modified template based on discordjs.guide to create your own discord-js based bot!",
+	"funding": "https://ko-fi.com/xampledevelopment",
+	"types": "./typings.d.ts",
+	"main": "bot.js",
+	"scripts": {
+		"start": "node bot.js"
+	},
+	"keywords": [
+		"discord-js"
+	],
+	"author": {
+		"name": "X-Ample Development",
+		"url": "https://discord.gg/xampledev",
+		"email": "info@x-ampledevelopment.com"
+	},
+	"license": "Apache-2.0",
+	"bugs": {
+		"url": "https://discord.gg/xampledev"
+	},
+	"homepage": "https://x-ampledevelopment.com",
+	"dependencies": {
+		"discord-api-types": "^0.37.43",
+		"discord.js": "^14.11.0"
+	}
+}
