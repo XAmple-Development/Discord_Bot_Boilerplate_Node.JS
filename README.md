@@ -86,7 +86,7 @@ npm install
 
 ## Configuration
 
-- Rename [`config-example.json`](https://github.com/NamVr/DiscordBot-Template/blob/master/config-example.json) to `config.json` and fill the token and other values. Extend config.json according to your needs!
+- Rename [`config-example.json`](https://github.com/XAmple-Development/Discord_Bot_Boilerplate_Node.JS/blob/master/config-example.json) to `config.json` and fill the token and other values. Extend config.json according to your needs!
 
 ## Run your bot
 
@@ -110,7 +110,7 @@ I'm working to make it more professional and easy to use for everyone. There wil
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/NamVr/DiscordBot-Template/issues). You can also take a look at the [contributing guide](https://github.com/NamVr/DiscordBot-Template/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/XAmple-Development/Discord_Bot_Boilerplate_Node.JS/issues). You can also take a look at the [contributing guide](https://github.com/XAmple-Development/Discord_Bot_Boilerplate_Node.JS/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
