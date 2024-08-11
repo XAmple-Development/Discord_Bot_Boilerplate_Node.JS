@@ -8,7 +8,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://twitter.com/dannyxample" target="_blank">
-    <img alt="Twitter: DannyXample" src="https://img.shields.io/twitter/follow/namanvrati.svg?style=social" />
+    <img alt="Twitter: DannyXample" src="https://img.shields.io/twitter/follow/X-AmpleDevelopment.svg?style=social" />
   </a>
 </p>
 
