@@ -18,7 +18,7 @@
 
 ## Introduction
 
-`NamVr` Discord Bot Template is an open source discord.js based bot template to get started on a new bot project. It is classic javascript template, not requiring any external dependencies unlike other famous frameworks. (This is not a framework!)
+Discord Bot Template is an open source discord.js based bot template to get started on a new bot project. It is classic javascript template, not requiring any external dependencies unlike other famous frameworks. (This is not a framework!)
 You can scale any kind of bot project using this template. (single server based or multiple server based) It all depends on your creativity!
 
 > 🛠️ **NEW!** _This template now supports **in-built typing (typescript-assistance) support** too, which means you will get all typescript-like assistant in vanilla javascipt! (Visual Studio Code tested, working 100% as expected)_
